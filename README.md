@@ -1,1 +1,2 @@
-# AI-Attendance-System[README.md](https://github.com/vibgreon/AI-Attendance-System/files/7070505/README.md)
+# AI-Attendance-System
+It is a Face Recognition based System which recognizes the person in front of the Camera and records there Name and time of entry.
