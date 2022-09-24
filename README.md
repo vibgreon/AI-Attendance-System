@@ -18,4 +18,8 @@ Methodology followed:
 - Encoding faces
 - Finding the person’s name from the encoding
 
-**NOTE: I've tried implementing the same for a web application and built it successfully, but due to not getting free access to cloud storage, I've not put it on the web server. Also, the implementation is crude for the web but can improve by using pre-trained models instead of calling face-recognition library.**
+## Update
+
+I've tried implementing the same for a web application and built it successfully, but due to not getting free access to cloud storage, I've not put it on the web server. 
+
+**Note: he implementation is crude for the web but can improve by using pre-trained models instead of calling face-recognition library.**
